@@ -21,5 +21,6 @@ Got a question or proposal, or just want to say hello? Go ahead.
 ### You can also find me on:
 <p align="center">
 <a href="https://www.linkedin.com/in/himanshu-goel-mca/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="himanshu-goel-mca" height="30" width="30" /></a>
+<a href="https://twitter.com/himanshugoelmca" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="himanshugoelmca" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/1696786/himanshu?tab=profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="1696786/himanshu?tab=profile" height="30" width="30" /></a>
 </p>
