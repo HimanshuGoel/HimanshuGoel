@@ -22,17 +22,6 @@ I am always excited for the challenge of learning new technologies. In this line
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuGoel)](https://github.com/HimanshuGoel/github-readme-stats)
 
-### :zap: GitHub Stats
-
-<center>
-  <table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=HimanshuGoel" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuGoel"/></td>
-    </tr>   
-  </table>
-</center>
-
 Got a question or proposal, or just want to say hello? Go ahead.
 
 - Email: [himanshu.goel.mca@gmail.com](mailto:himanshu.goel.mca@gmail.com)
