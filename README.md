@@ -16,6 +16,8 @@ Before that, I was working with [Citibank](https://www.citigroup.com/citi/), [De
 
 I am always excited for the challenge of learning new technologies. In this line of work, it's very easy to get caught up in the technical side of things, but what really drives me is the way that code can impact people. Software doesn’t exist in a vacuum, and the choices we make as developers could mean the difference between a user having a really good day or having a really frustrating day – it’s this that motivates me to make my work the best it can be.
 
+[![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=HimanshuGoel)](https://github.com/HimanshuGoel/github-readme-stats)
+
 Got a question or proposal, or just want to say hello? Go ahead.
 
 - Email: [himanshu.goel.mca@gmail.com](mailto:himanshu.goel.mca@gmail.com)
