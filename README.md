@@ -24,6 +24,7 @@ I am always excited for the challenge of learning new technologies. In this line
         <td><img width="400px" align="left" src="https://github-readme-stats.HimanshuGoel.vercel.app/api/top-langs/?username=HimanshuGoel&hide=html&layout=compact&theme=buefy" /></td>
         <td><img width="495px" align="left" src="https://github-readme-stats.HimanshuGoel.vercel.app/api?username=HimanshuGoel&hide=html&layout=compact&theme=buefy"/></td>
     </tr>   
+    <tr>(https://github-readme-stats.vercel.app/api?username=HimanshuGoel)](https://github.com/HimanshuGoel/github-readme-stats)</tr>
   </table>
 </center>
 
