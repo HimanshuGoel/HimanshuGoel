@@ -16,22 +16,20 @@ Before that, I was working with [Citibank](https://www.citigroup.com/citi/), [De
 
 I am always excited for the challenge of learning new technologies. In this line of work, it's very easy to get caught up in the technical side of things, but what really drives me is the way that code can impact people. Software doesn’t exist in a vacuum, and the choices we make as developers could mean the difference between a user having a really good day or having a really frustrating day – it’s this that motivates me to make my work the best it can be.
 
+### :zap: Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HimanshuGoel)](https://github.com/HimanshuGoel/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=HimanshuGoel)](https://github.com/HimanshuGoel/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuGoel)](https://github.com/HimanshuGoel/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuGoel&exclude_repo=github-readme-stats,HimanshuGoel.github.io)](https://github.com/HimanshuGoel/github-readme-stats)
 
 ### :zap: GitHub Stats
 
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.HimanshuGoel.vercel.app/api/top-langs/?username=HimanshuGoel&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.HimanshuGoel.vercel.app/api?username=HimanshuGoel&hide=html&layout=compact&theme=buefy"/></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=HimanshuGoel" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuGoel"/></td>
     </tr>   
-    <tr>(https://github-readme-stats.vercel.app/api?username=HimanshuGoel)](https://github.com/HimanshuGoel/github-readme-stats)</tr>
   </table>
 </center>
 
