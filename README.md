@@ -6,7 +6,7 @@
 
 ### I also love 🤗 to playing computer games, attending technical trainings, listening to music and watching movies.
 
-## Over the past 9.5 years,
+## Over the past 10 years,
 
 I've worked in different companies on different roles, ranging from .Net developer to Angular Node JS developer.
 
