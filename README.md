@@ -35,7 +35,7 @@ Got a question or proposal, or just want to say hello? Go ahead.
 
 - Email: [himanshu.goel.mca@gmail.com](mailto:himanshu.goel.mca@gmail.com)
 
-### You can also find me on:
+### You can also find me on
 <p align="left">
 <a href="https://www.linkedin.com/in/himanshu-goel-mca/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="himanshu-goel-mca" height="30" width="30" /></a>
 <a href="https://twitter.com/himanshugoelmca" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="himanshugoelmca" height="30" width="30" /></a>
