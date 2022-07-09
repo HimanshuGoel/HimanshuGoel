@@ -1,4 +1,4 @@
-### Hi there 👋 I am Himanshu Goel.
+# Hi there 👋 I am Himanshu Goel.
 
 ## I am a 👔👨🏻‍💻 Full-stack Developer.
 
