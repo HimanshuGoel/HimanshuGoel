@@ -22,7 +22,7 @@ I am always excited for the challenge of learning new technologies. In this line
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuGoel)](https://github.com/HimanshuGoel/github-readme-stats)
 
-# Blog Posts
+### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [My Essential LoFi Music](https://medium.com/@himanshu.goel.mca/my-essential-lofi-music-c1df38114da2)
