@@ -22,6 +22,15 @@ I am always excited for the challenge of learning new technologies. In this line
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuGoel)](https://github.com/HimanshuGoel/github-readme-stats)
 
+# Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [My Essential LoFi Music](https://medium.com/@himanshu.goel.mca/my-essential-lofi-music-c1df38114da2)
+- [My Essential Extensions for VS Code](https://medium.com/@himanshu.goel.mca/my-essential-extensions-for-vs-code-7259fcb79585)
+- [My Essential Extensions for Chrome](https://medium.com/@himanshu.goel.mca/my-essential-extensions-for-chrome-cd8d548f566f)
+- [My Favourite Hidden Features for Chrome DevTools](https://medium.com/@himanshu.goel.mca/my-favourite-hidden-features-for-chrome-devtools-6c788e602a1d)
+<!-- BLOG-POST-LIST:END -->
+
 Got a question or proposal, or just want to say hello? Go ahead.
 
 - Email: [himanshu.goel.mca@gmail.com](mailto:himanshu.goel.mca@gmail.com)
