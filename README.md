@@ -9,7 +9,7 @@
 
 - 💬 You can ask me about anything related to **Programming**, **Low-Code No-Code**, and **Full Stack Development**
 
-- 🤗 In my free time, I enjoy playing **Computer Games**, **Attending Technical Trainings**, **Listening to Music*, and **Watching Movies**.
+- 🤗 In my free time, I enjoy playing **Computer Games**, **Attending Technical Trainings**, **Listening to Music**, and **Watching Movies**.
 
 - 📩 Feel free to reach out to me via email at **himanshu.goel.mca@gmail.com**.
 
