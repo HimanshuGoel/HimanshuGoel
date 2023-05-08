@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I am Himanshu Goel 👋</h1>
 <h3 align="center">A Passionate Full Stack Developer (Technology Agnostic) at Sopra Banking Software 👔</h3>
 
-- 🔭 Currently, I am actively working on **Low-Code/No-Code* projects.
+- 🔭 Currently, I am actively working on **Low-Code/No-Code** projects.
 
 - 📚 Using technology like **Angular**, **TypeScript**, **Node.js**, etc.
 
@@ -9,12 +9,14 @@
 
 - 💬 You can ask me about anything related to **Programming**, **Low-Code No-Code**, and **Full Stack Development**
 
-- 📩 Feel free to reach out to me via email at **himanshu.goel.mca@gmail.com**.
 - 🤗 In my free time, I enjoy playing **Computer Games**, **Attending Technical Trainings**, **Listening to Music*, and **Watching Movies**.
+
+- 📩 Feel free to reach out to me via email at **himanshu.goel.mca@gmail.com**.
+
 
 ## Over the past 11+ years,
 
-I've worked in different companies on different roles, ranging from .Net developer to Angular + Node JS developer.
+I've worked in different companies on different roles, ranging from **.Net** developer to **Angular** + **Node JS** developer.
 
 Right now, I am working as Sr. Developer at [Sopra Banking Software](https://www.soprabanking.com/), crafting their suit of products for a global customer-base to provide fast, reliable and robust solutions. Mainly I am working on Angular, Typescript, Jasmine and Node JS here and I love what I do here.
 
